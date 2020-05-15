@@ -1,6 +1,13 @@
 # AngularPasswordGenerator
 
 Demo app made to learn Angular.
+Learned in this project (non-exhaustive list) :
+- how to create an Angular App
+- event binding syntax
+- property binding syntax
+- interpolation syntax
+- state
+- inputs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
